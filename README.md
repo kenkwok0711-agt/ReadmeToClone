@@ -39,3 +39,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 （如果 pip 太舊，先升級：python -m pip install --upgrade pip）
 
+
+
+
+
+「今之事勢，義無旋踵，騎虎之勢，可得下乎？」
+
